@@ -5,7 +5,7 @@
  * is confidential and proprietary to MediaTek Inc. and/or its licensors.
  * Without the prior written permission of MediaTek inc. and/or its licensors,
  * any reproduction, modification, use or disclosure of MediaTek Software,
- * and information contained herein, in whole or in part, shall be strictly prohibited.
+ * ad information contained herein, in whole or in part, shall be strictly prohibited.
  */
 /* MediaTek Inc. (C) 2010. All rights reserved.
  *
